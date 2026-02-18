@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://longhaulc2.github.io/blog"/>
     <subtitle>LongHaulC2 Blog</subtitle>
-    <icon>http://longhaulc2.github.io/img/favicon.ico</icon>
+    <icon>http://longhaulc2.github.io/img/earth_transparent.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>http://longhaulc2.github.io/blog/welcome</id>
