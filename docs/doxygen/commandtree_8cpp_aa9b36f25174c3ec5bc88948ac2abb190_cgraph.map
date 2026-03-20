@@ -1,0 +1,9 @@
+<map id="GetErrorMessage" name="GetErrorMessage">
+<area shape="rect" id="Node000001" title="Get the Error Message from a windows error code." alt="" coords="5,67,140,92"/>
+<area shape="rect" id="Node000002" href="$namespaceWinApi.html#af3efce4e1a1a33027a519bc85fa5c559" title=" " alt="" coords="188,29,377,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,65,197,55,198,60,141,70"/>
+<area shape="rect" id="Node000003" href="$namespaceWinApi.html#a9171f9de5547ab50569b1bb3c08deca3" title=" " alt="" coords="213,103,352,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="141,88,200,99,199,104,140,93"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="249,31,241,21,245,11,259,5,283,3,312,6,323,15,320,20,310,11,283,8,261,10,249,15,246,20,253,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="249,104,241,94,245,84,259,78,283,76,312,80,323,89,320,93,310,85,283,81,261,83,249,88,246,94,253,101"/>
+</map>

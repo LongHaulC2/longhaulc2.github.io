@@ -1,0 +1,9 @@
+<map id="SMB::Child::send_data" name="SMB::Child::send_data">
+<area shape="rect" id="Node000001" title="Synchronously sends data up to the parent via the outbox pipe." alt="" coords="5,67,172,92"/>
+<area shape="rect" id="Node000002" href="$namespaceWinApi.html#a9bda03096570a12867bb51a16f0b405d" title=" " alt="" coords="220,29,377,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,64,213,54,214,60,161,69"/>
+<area shape="rect" id="Node000003" href="$namespaceWinApi.html#a2d1e0605b1b2ca0157eb1459a5ae22ce" title=" " alt="" coords="231,103,366,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="164,89,218,99,217,104,163,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="265,31,257,21,261,11,275,5,299,3,328,6,339,15,336,20,326,11,299,8,277,10,265,15,262,20,269,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="265,104,257,94,261,84,275,78,299,76,328,80,339,89,336,93,326,85,299,81,277,83,265,88,262,94,269,101"/>
+</map>

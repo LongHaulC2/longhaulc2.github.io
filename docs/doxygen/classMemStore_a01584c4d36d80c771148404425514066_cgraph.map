@@ -1,0 +1,5 @@
+<map id="MemStore::store" name="MemStore::store">
+<area shape="rect" id="Node000001" title="Obfuscates and stores a byte vector in memory under a specific key." alt="" coords="5,5,136,31"/>
+<area shape="rect" id="Node000002" href="$memstore_8h.html#a570b0a18b624f9b790166d0766fd8c6a" title="Applies a repeating&#45;key XOR operation to a data buffer in place." alt="" coords="184,5,233,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,15,170,15,170,21,136,21"/>
+</map>

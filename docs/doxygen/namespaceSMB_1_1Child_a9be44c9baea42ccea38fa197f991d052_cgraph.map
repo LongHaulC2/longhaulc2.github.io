@@ -1,0 +1,15 @@
+<map id="SMB::Child::fetch_tasks" name="SMB::Child::fetch_tasks">
+<area shape="rect" id="Node000001" title="Sends a check&#45;in request to the parent and retrieves pending tasks." alt="" coords="5,80,180,105"/>
+<area shape="rect" id="Node000002" href="$namespaceWinApi.html#a9bda03096570a12867bb51a16f0b405d" title=" " alt="" coords="463,29,620,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,77,228,65,343,52,449,44,449,50,343,57,228,70,154,83"/>
+<area shape="rect" id="Node000003" href="$namespaceSMB.html#a86521be418158601f8b5310e4fb54716" title="Dynamically reads data from a specified named pipe into a buffer." alt="" coords="228,80,415,105"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="180,90,214,90,214,95,180,95"/>
+<area shape="rect" id="Node000005" href="$namespaceWinApi.html#a2d1e0605b1b2ca0157eb1459a5ae22ce" title=" " alt="" coords="254,153,389,179"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="134,103,269,147,267,152,133,108"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="506,31,498,21,502,11,517,5,541,3,572,6,584,15,581,20,570,11,541,8,518,10,506,15,503,20,510,28"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="377,77,472,55,473,60,378,82"/>
+<area shape="rect" id="Node000004" href="$namespaceWinApi.html#a0588cdeaeb77a0e5e52676f647b76b5b" title=" " alt="" coords="475,103,607,128"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="415,100,461,104,461,110,415,105"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="506,104,498,94,502,84,517,78,541,76,572,80,584,89,581,93,570,85,541,81,518,83,506,88,503,94,510,101"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="286,155,278,145,282,135,297,129,321,127,352,130,364,139,361,144,350,135,321,132,298,134,286,139,283,144,290,152"/>
+</map>

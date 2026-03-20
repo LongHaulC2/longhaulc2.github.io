@@ -1,0 +1,12 @@
+<map id="get_nic_info" name="get_nic_info">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,107,92"/>
+<area shape="rect" id="Node000002" href="$namespaceWinApi.html#ad4b0b84e350ad94869b5b0866680c8bd" title=" " alt="" coords="155,29,379,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,68,181,54,182,60,108,73"/>
+<area shape="rect" id="Node000004" href="$namespaceWinApi.html#ad2520ce0b94ccff23653a009c678a162" title=" " alt="" coords="198,103,335,128"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="108,85,185,99,184,104,107,91"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="232,31,225,21,229,11,243,5,267,3,296,6,308,15,304,20,294,11,267,8,244,10,232,15,230,20,236,28"/>
+<area shape="rect" id="Node000003" href="$namespaceWinApi.html#a7bdea9bf481cad79fd2acf365bb40712" title="Ensures a specified module is loaded into memory." alt="" coords="427,67,641,92"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="358,52,429,62,428,67,358,57"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="335,104,426,91,426,96,336,109"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="232,104,225,94,229,84,243,78,267,76,296,80,308,89,304,93,294,85,267,81,244,83,232,88,230,94,236,101"/>
+</map>

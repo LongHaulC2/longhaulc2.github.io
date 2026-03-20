@@ -1,0 +1,6 @@
+<map id="WinApi::GetUserNameW" name="WinApi::GetUserNameW">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,187,55"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="56,31,48,21,52,11,69,5,96,3,131,7,141,11,144,17,140,20,137,15,129,12,96,8,70,10,56,15,53,20,60,27"/>
+<area shape="rect" id="Node000002" href="$namespaceWinApi.html#a7bdea9bf481cad79fd2acf365bb40712" title="Ensures a specified module is loaded into memory." alt="" coords="235,29,449,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,39,221,39,221,45,187,45"/>
+</map>

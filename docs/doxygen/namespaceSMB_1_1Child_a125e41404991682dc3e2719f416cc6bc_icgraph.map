@@ -1,0 +1,5 @@
+<map id="SMB::Child::await_client_connection" name="SMB::Child::await_client_connection">
+<area shape="rect" id="Node000001" title="Synchronously waits for a client (parent) to connect to the named pipe." alt="" coords="239,5,417,45"/>
+<area shape="rect" id="Node000002" href="$namespaceSMB_1_1Child.html#a1dbd0115fb928109859a0f48a229c6a9" title=" " alt="" coords="5,13,191,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,28,191,28,191,23,225,23"/>
+</map>

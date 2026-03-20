@@ -1,0 +1,8 @@
+<map id="set_comms_post_strategy" name="set_comms_post_strategy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,199,80"/>
+<area shape="rect" id="Node000002" href="$classSettingsManager.html#a74685a39b7c6410229a1d6b4de9dce02" title="Accesses the global Singleton instance of the SettingsManager." alt="" coords="247,29,441,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,55,233,51,233,56,199,60"/>
+<area shape="rect" id="Node000003" href="$classSettingsManager.html#a9b74f49f1df51b39752b8dcedfdc4c11" title="Sets or updates a configuration setting." alt="" coords="264,79,424,104"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="199,74,251,79,250,85,199,80"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="305,31,297,21,301,11,317,5,344,3,378,7,391,16,387,20,376,11,344,8,318,10,305,15,302,20,309,27"/>
+</map>

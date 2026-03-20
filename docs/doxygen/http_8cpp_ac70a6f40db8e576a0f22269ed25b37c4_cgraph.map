@@ -1,0 +1,35 @@
+<map id="HTTP_GET" name="HTTP_GET">
+<area shape="rect" id="Node000001" title="Executes an HTTP request (typically GET) using WinInet." alt="" coords="5,287,95,312"/>
+<area shape="rect" id="Node000002" href="$namespaceWinApi.html#a9bda03096570a12867bb51a16f0b405d" title=" " alt="" coords="189,29,346,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,286,55,243,70,183,81,150,97,118,117,89,141,64,174,46,177,51,144,68,121,92,101,121,86,152,75,184,60,244,55,287"/>
+<area shape="rect" id="Node000003" href="$namespaceWinApi.html#ae92dbfa8870a7e94a160b058639419ea" title=" " alt="" coords="143,103,392,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="52,286,62,255,80,214,106,172,141,137,149,132,152,137,144,141,110,176,85,217,67,257,57,287"/>
+<area shape="rect" id="Node000005" href="$namespaceWinApi.html#a143e025f451761b729f79c2da8c8726c" title=" " alt="" coords="165,176,369,201"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="59,285,92,247,116,227,141,210,157,203,159,208,144,215,119,231,96,251,63,288"/>
+<area shape="rect" id="Node000006" href="$namespaceWinApi.html#aa2f0b4379cf5aec29cedb26e7887a1d7" title=" " alt="" coords="166,249,369,275"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="94,289,179,274,180,280,95,294"/>
+<area shape="rect" id="Node000007" href="$namespaceWinApi.html#a62d1b89226ea9d87a299b6bdaaa8e342" title=" " alt="" coords="163,323,372,348"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="95,304,178,318,177,323,94,309"/>
+<area shape="rect" id="Node000008" href="$namespaceWinApi.html#addfa87eaba07d9573e175701df369d49" title=" " alt="" coords="171,396,364,421"/>
+<area shape="poly" id="edge15_Node000001_Node000008" title=" " alt="" coords="70,310,144,357,217,389,215,394,141,362,67,315"/>
+<area shape="rect" id="Node000009" href="$namespaceWinApi.html#aa645607196ab181e3eb32a4bd4030fae" title=" " alt="" coords="180,469,355,495"/>
+<area shape="poly" id="edge18_Node000001_Node000009" title=" " alt="" coords="59,311,90,368,115,401,144,431,173,449,204,462,202,467,170,454,141,435,111,405,86,371,55,313"/>
+<area shape="rect" id="Node000010" href="$namespaceWinApi.html#ae589e95277f74446a221aeb5f3c30df7" title=" " alt="" coords="176,543,359,568"/>
+<area shape="poly" id="edge21_Node000001_Node000010" title=" " alt="" coords="56,312,65,349,81,400,107,456,124,481,144,504,169,522,197,535,194,540,166,527,141,508,120,485,103,458,76,402,60,351,51,313"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="232,31,224,21,228,11,243,5,267,3,297,6,309,15,306,20,295,11,267,8,244,10,232,15,230,20,236,28"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="232,104,224,94,228,84,243,78,267,76,297,80,309,89,306,93,295,85,267,81,244,83,232,88,230,94,236,101"/>
+<area shape="rect" id="Node000004" href="$namespaceWinApi.html#a7bdea9bf481cad79fd2acf365bb40712" title="Ensures a specified module is loaded into memory." alt="" coords="440,323,655,348"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="369,126,393,137,442,176,483,223,514,270,536,309,531,311,510,273,479,226,438,180,391,142,367,130"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="361,199,393,210,433,233,470,259,527,311,523,315,466,264,430,237,391,215,360,204"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="232,178,224,168,228,158,243,152,267,149,297,153,309,162,306,166,295,158,267,155,244,157,232,162,230,167,236,174"/>
+<area shape="poly" id="edge10_Node000006_Node000004" title=" " alt="" coords="342,272,393,283,498,316,497,321,391,289,341,277"/>
+<area shape="poly" id="edge11_Node000006_Node000006" title=" " alt="" coords="232,251,224,241,228,231,243,225,267,223,297,226,309,235,306,240,295,231,267,228,244,230,232,235,230,240,236,248"/>
+<area shape="poly" id="edge13_Node000007_Node000004" title=" " alt="" coords="372,333,426,333,426,338,372,338"/>
+<area shape="poly" id="edge14_Node000007_Node000007" title=" " alt="" coords="232,324,224,314,228,304,243,298,267,296,297,300,309,309,306,313,295,305,267,301,244,303,232,308,230,314,236,321"/>
+<area shape="poly" id="edge16_Node000008_Node000004" title=" " alt="" coords="316,393,484,349,485,354,318,398"/>
+<area shape="poly" id="edge17_Node000008_Node000008" title=" " alt="" coords="232,398,224,388,228,378,243,372,267,369,297,373,309,382,306,386,295,378,267,375,244,377,232,382,230,387,236,394"/>
+<area shape="poly" id="edge19_Node000009_Node000004" title=" " alt="" coords="305,467,391,430,459,391,516,354,519,358,462,396,393,435,307,472"/>
+<area shape="poly" id="edge20_Node000009_Node000009" title=" " alt="" coords="232,471,224,461,228,451,243,445,267,443,297,446,309,455,306,460,295,451,267,448,244,450,232,455,230,460,236,468"/>
+<area shape="poly" id="edge22_Node000010_Node000004" title=" " alt="" coords="314,540,352,525,391,504,433,469,472,429,528,358,532,361,476,433,437,473,393,508,355,530,315,545"/>
+<area shape="poly" id="edge23_Node000010_Node000010" title=" " alt="" coords="232,544,224,534,228,524,243,518,267,516,297,520,309,529,306,533,295,525,267,521,244,523,232,528,230,534,236,541"/>
+</map>

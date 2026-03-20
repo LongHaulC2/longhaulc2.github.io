@@ -1,0 +1,9 @@
+<map id="get_computer_name" name="get_computer_name">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,161,92"/>
+<area shape="rect" id="Node000002" href="$namespaceWinApi.html#ac937f0bfee1f2a98745538ab2d19efb6" title=" " alt="" coords="209,29,424,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,64,223,54,224,59,162,70"/>
+<area shape="rect" id="Node000003" href="$namespaceWinApi.html#a9bda03096570a12867bb51a16f0b405d" title=" " alt="" coords="238,103,395,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="162,89,225,98,224,104,161,94"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="279,31,271,21,275,11,291,5,317,3,349,7,362,16,358,20,347,11,317,8,292,10,279,15,276,20,283,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="279,104,271,94,275,84,291,78,317,76,349,80,362,89,358,94,347,85,317,81,292,83,279,88,276,94,283,101"/>
+</map>

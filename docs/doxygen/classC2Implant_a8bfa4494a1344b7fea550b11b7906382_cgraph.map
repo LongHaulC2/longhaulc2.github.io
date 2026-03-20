@@ -1,0 +1,33 @@
+<map id="C2Implant::dispatch_to_child_router" name="C2Implant::dispatch_to_child_router">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,190,157,230"/>
+<area shape="rect" id="Node000002" href="$c2_8cpp.html#adc5813daecd26fd653c6b2469681b99a" title=" " alt="" coords="248,148,391,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,192,244,174,245,179,158,197"/>
+<area shape="rect" id="Node000013" href="$namespaceWinApi.html#a9be5b242e2ba121171f075bc0105c1c8" title=" " alt="" coords="207,197,432,223"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="158,207,193,207,193,213,158,213"/>
+<area shape="rect" id="Node000014" href="$namespaceWinApi.html#a65b7a14b8387c72845aee142139397a6" title=" " alt="" coords="205,247,433,272"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="158,223,245,241,244,246,157,228"/>
+<area shape="rect" id="Node000003" href="$namespaceWinApi.html#ad87a0c2f510fcf0cd7e5c992b12b83c3" title=" " alt="" coords="481,33,700,59"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="338,146,400,108,480,69,508,60,510,65,482,74,402,113,341,150"/>
+<area shape="rect" id="Node000004" href="$namespaceSMB_1_1Parent.html#a55adf01a2e6d5f2ddcb80b72922ca407" title="Executes a full interaction cycle with a downstream child implant." alt="" coords="519,83,662,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="380,145,505,119,506,124,381,151"/>
+<area shape="rect" id="Node000010" href="$classChildHandler.html#a1bbce3ec38b281743dcb8d33886b5e04" title="Retrieves the globally accessible singleton instance of the ChildHandler." alt="" coords="506,148,675,173"/>
+<area shape="poly" id="edge13_Node000002_Node000010" title=" " alt="" coords="391,158,492,158,492,163,391,163"/>
+<area shape="rect" id="Node000011" href="$namespacePostQueue.html#a1b1d34443099f7705f4d70b90821f6c5" title="Pushes a task into the PostQueue. The PostQueue is an array of all tasks to be POSTed back to the ser..." alt="" coords="525,197,656,223"/>
+<area shape="poly" id="edge14_Node000002_Node000011" title=" " alt="" coords="390,171,512,193,511,198,389,176"/>
+<area shape="rect" id="Node000012" href="$namespaceWinApi.html#ae0d71cee8f43dd1850dd6904c097d560" title=" " alt="" coords="523,247,658,272"/>
+<area shape="poly" id="edge15_Node000002_Node000012" title=" " alt="" coords="392,167,435,184,450,196,460,209,468,222,483,233,511,245,509,250,480,238,464,225,455,212,446,200,432,188,390,172"/>
+<area shape="rect" id="Node000005" href="$namespaceWinApi.html#a9bda03096570a12867bb51a16f0b405d" title=" " alt="" coords="983,29,1140,55"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="657,81,699,67,723,58,747,51,862,38,969,36,969,41,863,44,749,57,725,63,701,73,659,86"/>
+<area shape="rect" id="Node000006" href="$namespaceGetQueue.html#ab23344f8f948326ffd4be1f36dbe08ce" title="Pushes a task into the Get queue. The GetQueue is an array of all inbound tasks." alt="" coords="778,67,905,92"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="662,94,764,84,765,89,663,99"/>
+<area shape="rect" id="Node000007" href="$namespaceSMB.html#a86521be418158601f8b5310e4fb54716" title="Dynamically reads data from a specified named pipe into a buffer." alt="" coords="748,116,935,141"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="663,108,735,115,734,121,662,113"/>
+<area shape="rect" id="Node000009" href="$namespaceWinApi.html#a2d1e0605b1b2ca0157eb1459a5ae22ce" title=" " alt="" coords="774,189,909,215"/>
+<area shape="poly" id="edge11_Node000004_Node000009" title=" " alt="" coords="663,121,701,134,804,181,802,186,699,139,661,126"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="1026,31,1018,21,1022,11,1037,5,1061,3,1092,6,1104,15,1101,20,1090,11,1061,8,1038,10,1026,15,1023,20,1030,28"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="895,113,934,101,981,77,1020,58,1022,63,984,82,936,106,897,118"/>
+<area shape="rect" id="Node000008" href="$namespaceWinApi.html#a0588cdeaeb77a0e5e52676f647b76b5b" title=" " alt="" coords="995,116,1127,141"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="935,126,981,126,981,131,935,131"/>
+<area shape="poly" id="edge10_Node000008_Node000008" title=" " alt="" coords="1026,118,1018,108,1022,98,1037,92,1061,89,1092,93,1104,102,1101,106,1090,98,1061,95,1038,97,1026,102,1023,107,1030,114"/>
+<area shape="poly" id="edge12_Node000009_Node000009" title=" " alt="" coords="806,191,798,181,802,171,817,165,841,163,872,166,884,175,881,180,870,171,841,168,818,170,806,175,803,180,810,188"/>
+</map>

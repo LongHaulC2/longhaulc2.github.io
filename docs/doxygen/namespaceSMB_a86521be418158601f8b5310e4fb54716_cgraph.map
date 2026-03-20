@@ -1,0 +1,9 @@
+<map id="SMB::read_pipe_dynamic" name="SMB::read_pipe_dynamic">
+<area shape="rect" id="Node000001" title="Dynamically reads data from a specified named pipe into a buffer." alt="" coords="5,67,192,92"/>
+<area shape="rect" id="Node000002" href="$namespaceWinApi.html#a9bda03096570a12867bb51a16f0b405d" title=" " alt="" coords="240,29,397,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,64,230,54,231,60,175,69"/>
+<area shape="rect" id="Node000003" href="$namespaceWinApi.html#a0588cdeaeb77a0e5e52676f647b76b5b" title=" " alt="" coords="253,103,385,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="177,89,240,100,239,105,176,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="283,31,275,21,279,11,294,5,319,3,349,6,361,15,358,20,347,11,319,8,295,10,283,15,280,20,287,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="283,104,275,94,279,84,294,78,319,76,349,80,361,89,358,93,347,85,319,81,295,83,283,88,280,94,287,101"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="WinApi::InternetReadFile" name="WinApi::InternetReadFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="583,50,765,75"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="707,40,698,32,674,29,654,31,644,35,642,41,647,48,643,51,637,42,640,32,653,26,674,23,700,27,710,36"/>
+<area shape="rect" id="Node000002" href="$http_8cpp.html#ac70a6f40db8e576a0f22269ed25b37c4" title="Executes an HTTP request (typically GET) using WinInet." alt="" coords="441,21,531,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="579,50,531,43,531,38,579,45"/>
+<area shape="rect" id="Node000005" href="$http_8cpp.html#afb2eb1aa1c1d324f73a1f9e165b27c32" title="Executes an HTTP POST request using WinInet." alt="" coords="437,74,535,99"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="569,79,535,83,535,78,568,73"/>
+<area shape="rect" id="Node000003" href="$namespacehttp__10__0__0__30__9090__sdafsdfs.html#accba2aa3c7f28d987b303f3a894afc04" title=" " alt="" coords="227,8,389,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="428,34,389,33,390,28,428,29"/>
+<area shape="rect" id="Node000004" href="$classhttp__10__0__0__30__9090__sdafsdfs__Ingress.html#aaebc46fb2c4da0c6034087bf3c938ee2" title=" " alt="" coords="9,5,175,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="213,29,176,29,176,24,213,24"/>
+<area shape="rect" id="Node000006" href="$namespacehttp__10__0__0__30__9090__sdafsdfs.html#acb8c0288d78395c62ddfd2a73dddeebf" title=" " alt="" coords="227,73,389,113"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="424,92,390,93,389,88,424,86"/>
+<area shape="rect" id="Node000007" href="$classhttp__10__0__0__30__9090__sdafsdfs__Egress.html#a87cf6a0fdbf007a0aa72fda10a29d313" title=" " alt="" coords="5,70,179,125"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="213,98,179,98,179,93,213,92"/>
+</map>

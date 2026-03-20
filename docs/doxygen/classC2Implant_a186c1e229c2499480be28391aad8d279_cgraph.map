@@ -1,0 +1,19 @@
+<map id="C2Implant::init" name="C2Implant::init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,124,131"/>
+<area shape="rect" id="Node000002" href="$namespaceuuid7.html#a35b46f0e8ba59507cccdf229fe345c81" title=" " alt="" coords="217,5,341,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,103,118,71,171,40,203,28,205,33,173,44,121,76,82,107"/>
+<area shape="rect" id="Node000003" href="$classIIngressTransport.html#a79c50dc628365b3b781d28747a9a7209" title=" " alt="" coords="198,55,361,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,103,211,81,212,86,120,108"/>
+<area shape="rect" id="Node000004" href="$classSettingsManager.html#a74685a39b7c6410229a1d6b4de9dce02" title="Accesses the global Singleton instance of the SettingsManager." alt="" coords="435,117,629,143"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="124,117,421,125,421,130,124,122"/>
+<area shape="rect" id="Node000005" href="$classSettingsManager.html#a9b74f49f1df51b39752b8dcedfdc4c11" title="Sets or updates a configuration setting." alt="" coords="199,156,359,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="120,128,212,150,211,155,119,133"/>
+<area shape="rect" id="Node000006" href="$classC2Implant.html#abfda18f2500eb95df9e8f87872750b96" title=" " alt="" coords="172,205,387,231"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="82,129,121,160,173,192,192,199,190,204,171,196,118,165,78,133"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="491,119,483,109,487,99,504,93,532,91,567,95,577,99,581,105,577,108,574,103,566,100,532,96,505,98,491,103,488,108,495,115"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="346,203,386,191,442,170,492,146,495,151,444,175,388,197,347,208"/>
+<area shape="rect" id="Node000007" href="$classSettingsManager.html#ae7564704bb55b368aa13e531d9a4e51e" title="Retrieves a configuration setting safely." alt="" coords="451,192,613,217"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="387,210,437,207,438,212,387,215"/>
+<area shape="rect" id="Node000008" href="$classIIngressTransport.html#a9036188f40d6c99b40ef7f81eb1100f0" title=" " alt="" coords="461,242,603,282"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="353,228,448,245,447,250,352,233"/>
+</map>

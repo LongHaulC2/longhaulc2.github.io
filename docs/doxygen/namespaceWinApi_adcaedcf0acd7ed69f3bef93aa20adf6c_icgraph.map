@@ -1,0 +1,8 @@
+<map id="WinApi::ConnectNamedPipe" name="WinApi::ConnectNamedPipe">
+<area shape="rect" id="Node000001" title=" " alt="" coords="465,29,669,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="610,20,599,11,567,8,542,10,528,15,526,20,533,27,529,31,520,21,525,11,541,5,567,3,601,7,613,16"/>
+<area shape="rect" id="Node000002" href="$namespaceSMB_1_1Child.html#a125e41404991682dc3e2719f416cc6bc" title="Synchronously waits for a client (parent) to connect to the named pipe." alt="" coords="239,22,417,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="452,45,418,45,418,39,452,39"/>
+<area shape="rect" id="Node000003" href="$namespaceSMB_1_1Child.html#a1dbd0115fb928109859a0f48a229c6a9" title=" " alt="" coords="5,29,191,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="225,45,191,45,191,39,225,39"/>
+</map>

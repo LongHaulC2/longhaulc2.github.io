@@ -1,0 +1,24 @@
+<map id="core/c2.h" name="core/c2.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="276,5,357,31"/>
+<area shape="rect" id="Node000002" href="$c2_8cpp.html" title=" " alt="" coords="188,299,284,324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,27,200,38,130,61,96,77,65,98,38,123,16,153,8,180,14,204,31,225,57,245,89,262,123,276,189,296,188,301,121,281,86,266,54,249,27,229,9,206,3,180,11,151,34,120,62,94,94,73,128,56,199,33,262,21"/>
+<area shape="rect" id="Node000003" href="$commandtree_8cpp.html" title=" " alt="" coords="26,152,198,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,32,210,50,184,64,161,81,145,98,133,117,118,153,113,151,129,115,141,94,157,77,182,59,208,45,262,27"/>
+<area shape="rect" id="Node000004" href="$settings_8h.html" title=" " alt="" coords="170,79,289,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="294,41,246,81,242,76,290,37"/>
+<area shape="rect" id="Node000008" href="$dll__main_8cpp.html" title=" " alt="" coords="313,79,496,104"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="343,37,392,76,388,81,339,41"/>
+<area shape="rect" id="Node000009" href="$exe__main_8cpp.html" title=" " alt="" coords="520,79,710,104"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="371,30,567,76,566,81,370,35"/>
+<area shape="poly" id="edge9_Node000004_Node000002" title=" " alt="" coords="233,118,239,298,233,298,228,118"/>
+<area shape="poly" id="edge10_Node000004_Node000003" title=" " alt="" coords="201,113,133,154,130,149,198,109"/>
+<area shape="rect" id="Node000005" href="$comms_8h.html" title=" " alt="" coords="274,152,409,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="261,109,325,150,322,154,258,114"/>
+<area shape="rect" id="Node000006" href="$transport_8h.html" title=" " alt="" coords="324,225,469,251"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="303,103,376,123,405,136,424,150,431,170,427,191,408,226,403,224,422,190,425,171,420,154,402,140,374,128,302,108"/>
+<area shape="rect" id="Node000007" href="$strategy_8cpp.html" title=" " alt="" coords="485,152,646,177"/>
+<area shape="poly" id="edge11_Node000004_Node000007" title=" " alt="" coords="298,104,512,149,511,155,296,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="361,187,390,224,385,227,357,190"/>
+<area shape="poly" id="edge7_Node000006_Node000001" title=" " alt="" coords="482,224,581,205,630,192,675,176,710,156,732,134,736,122,736,109,732,96,721,81,696,63,658,49,611,38,557,31,447,23,357,22,357,16,447,18,558,26,612,33,660,44,699,58,725,77,736,93,742,109,742,123,736,137,713,161,677,181,632,197,582,210,483,229"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="359,259,264,301,261,296,357,254"/>
+</map>

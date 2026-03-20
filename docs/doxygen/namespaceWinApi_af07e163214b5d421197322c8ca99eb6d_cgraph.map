@@ -1,0 +1,6 @@
+<map id="WinApi::InetNtopW" name="WinApi::InetNtopW">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,151,55"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="41,31,33,21,37,11,53,5,78,3,110,7,122,16,119,20,108,11,78,8,54,10,41,15,38,20,45,27"/>
+<area shape="rect" id="Node000002" href="$namespaceWinApi.html#a7bdea9bf481cad79fd2acf365bb40712" title="Ensures a specified module is loaded into memory." alt="" coords="199,29,413,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,39,185,39,185,45,151,45"/>
+</map>
