@@ -1,8 +1,0 @@
-<map id="C2Implant::sleep_implant" name="C2Implant::sleep_implant">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,195,68"/>
-<area shape="rect" id="Node000002" href="$classSettingsManager.html#ae7564704bb55b368aa13e531d9a4e51e" title="Retrieves a configuration setting safely." alt="" coords="259,5,421,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,40,245,30,246,35,183,45"/>
-<area shape="rect" id="Node000003" href="$classSettingsManager.html#a74685a39b7c6410229a1d6b4de9dce02" title="Accesses the global Singleton instance of the SettingsManager." alt="" coords="243,79,437,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,65,242,74,241,79,185,71"/>
-<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="301,80,293,70,297,60,313,54,340,52,374,56,387,65,383,70,372,61,340,57,314,59,301,64,298,70,305,77"/>
-</map>

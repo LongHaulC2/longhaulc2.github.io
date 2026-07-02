@@ -1,7 +1,0 @@
-<map id="core/commandtree.h" name="core/commandtree.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="87,5,245,31"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,161,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,33,109,72,106,67,151,29"/>
-<area shape="rect" id="Node000003" href="$debug_8h.html" title=" " alt="" coords="186,79,311,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,29,226,67,223,72,178,33"/>
-</map>

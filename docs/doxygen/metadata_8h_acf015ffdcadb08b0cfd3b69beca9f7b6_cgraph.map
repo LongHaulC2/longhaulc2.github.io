@@ -1,9 +1,0 @@
-<map id="get_current_process_pid" name="get_current_process_pid">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,185,92"/>
-<area shape="rect" id="Node000002" href="$namespaceWinApi.html#ae1e4c0a289224aeaf8b0a043f8dfbfe7" title=" " alt="" coords="233,29,443,55"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,64,241,54,242,59,179,69"/>
-<area shape="rect" id="Node000003" href="$namespaceWinApi.html#a9bda03096570a12867bb51a16f0b405d" title=" " alt="" coords="259,103,417,128"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="182,89,246,99,245,104,181,95"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="299,31,290,21,295,11,311,5,338,3,372,7,382,11,386,17,381,20,378,15,371,12,338,8,312,10,298,15,295,20,303,27"/>
-<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="299,104,290,94,295,84,311,78,338,76,372,80,382,85,386,90,381,93,378,89,371,85,338,81,312,83,298,88,295,94,303,101"/>
-</map>

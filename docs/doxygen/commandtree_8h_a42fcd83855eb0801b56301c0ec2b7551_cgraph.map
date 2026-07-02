@@ -1,8 +1,0 @@
-<map id="IsStrategyValid" name="IsStrategyValid">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,125,68"/>
-<area shape="rect" id="Node000002" href="$classSettingsManager.html#ae7564704bb55b368aa13e531d9a4e51e" title="Retrieves a configuration setting safely." alt="" coords="190,5,351,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,42,187,31,188,36,126,47"/>
-<area shape="rect" id="Node000003" href="$classSettingsManager.html#a74685a39b7c6410229a1d6b4de9dce02" title="Accesses the global Singleton instance of the SettingsManager." alt="" coords="173,79,368,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,63,185,74,184,79,125,68"/>
-<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="237,80,230,70,233,60,247,54,271,52,299,56,311,65,307,69,297,61,271,57,249,59,237,64,235,70,241,77"/>
-</map>

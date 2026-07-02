@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklonghaulc2_docs=self.webpackChunklonghaulc2_docs||[]).push([[8391],{8391(c,e,s){s.d(e,{createInfoServices:()=>a.v});var a=s(6491);s(1400)}}]);

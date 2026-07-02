@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklonghaulc2_docs=self.webpackChunklonghaulc2_docs||[]).push([[52],{7671(e,c,s){s.d(c,{createTreemapServices:()=>a.d});var a=s(4687);s(1400)}}]);

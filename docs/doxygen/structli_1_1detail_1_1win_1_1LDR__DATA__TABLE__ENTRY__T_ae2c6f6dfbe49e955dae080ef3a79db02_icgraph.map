@@ -1,9 +1,0 @@
-<map id="li::detail::win::LDR_DATA_TABLE_ENTRY_T::load_order_next" name="li::detail::win::LDR_DATA_TABLE_ENTRY_T::load_order_next">
-<area shape="rect" id="Node000001" title=" " alt="" coords="252,62,433,117"/>
-<area shape="rect" id="Node000002" href="$structli_1_1detail_1_1safe__module__enumerator.html#aa79c0f6e14eecd805521118e4f6ae075" title=" " alt="" coords="21,5,188,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,64,179,48,180,43,239,59"/>
-<area shape="rect" id="Node000003" href="$structli_1_1detail_1_1unsafe__module__enumerator.html#a002ef98e67b48a6f16930a3b5ecfc51c" title=" " alt="" coords="5,69,204,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,92,204,92,204,87,238,87"/>
-<area shape="rect" id="Node000004" href="$structli_1_1detail_1_1safe__module__enumerator.html#a0f6891d1e52129901d1c4a1e4e0f1e04" title=" " alt="" coords="21,133,188,173"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="239,120,180,136,179,131,238,115"/>
-</map>

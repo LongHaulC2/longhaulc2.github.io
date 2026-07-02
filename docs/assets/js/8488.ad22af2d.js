@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklonghaulc2_docs=self.webpackChunklonghaulc2_docs||[]).push([[8488],{8488(c,e,s){s.d(e,{createArchitectureServices:()=>u.S});var u=s(9221);s(1400)}}]);

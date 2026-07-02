@@ -1,7 +1,0 @@
-<map id="netbiosu_decode" name="netbiosu_decode">
-<area shape="rect" id="Node000001" title=" " alt="" coords="345,5,477,31"/>
-<area shape="rect" id="Node000002" href="$test_8cpp.html#ab28a495aa26b008787770b14c7135eaf" title=" " alt="" coords="124,5,297,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,21,298,21,298,15,332,15"/>
-<area shape="rect" id="Node000003" href="$test_8cpp.html#aa1c715cac916839a95e25b65b4071c4a" title=" " alt="" coords="5,5,76,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,21,76,21,76,15,110,15"/>
-</map>
