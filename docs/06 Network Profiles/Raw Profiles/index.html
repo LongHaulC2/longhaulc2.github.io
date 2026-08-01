@@ -4,8 +4,8 @@
 <meta charset="UTF-8">
 <meta name="generator" content="Docusaurus v3.10.1">
 <title data-rh="true">Profile Technical Reference | LongHaulC2</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://longhaulc2.github.io/06 Network Profiles/Raw Profiles"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Profile Technical Reference | LongHaulC2"><meta data-rh="true" name="description" content="A raw profile defines the complete wire format for a TCP or UDP connection. The listener adds nothing beyond what the profile specifies."><meta data-rh="true" property="og:description" content="A raw profile defines the complete wire format for a TCP or UDP connection. The listener adds nothing beyond what the profile specifies."><link data-rh="true" rel="canonical" href="https://longhaulc2.github.io/06 Network Profiles/Raw Profiles"><link data-rh="true" rel="alternate" href="https://longhaulc2.github.io/06 Network Profiles/Raw Profiles" hreflang="en"><link data-rh="true" rel="alternate" href="https://longhaulc2.github.io/06 Network Profiles/Raw Profiles" hreflang="x-default"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Profile Technical Reference","item":"https://longhaulc2.github.io/06 Network Profiles/Raw Profiles"}]}</script><link rel="stylesheet" href="/assets/css/styles.b3ce44e1.css">
-<script src="/assets/js/runtime~main.f2bea98d.js" defer="defer"></script>
-<script src="/assets/js/main.1a676720.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.96d07769.js" defer="defer"></script>
+<script src="/assets/js/main.c97fb336.js" defer="defer"></script>
 </head>
 <body>
 <svg style="display: none;"><defs>
@@ -21,7 +21,7 @@
 <p><strong>Whatever you put in the profile is what gets sent. The only substitutions are the two recognized tokens. Everything else is literal.</strong></p>
 </blockquote>
 <p>This is what makes raw profiles powerful and what makes mistakes operationally dangerous. There is no implicit framing, no length prefix, no magic. The listener takes your body template, replaces the token with the transformed payload, and writes the resulting bytes to the socket.</p>
-<p>If your profile for NTP contains a valid 48-byte NTP header structure, the packet looks like NTP to network tooling (i.e., Wireshark). If it contains garbage, the packet contains garbage, and likely won&#x27;t be recognized.</p>
+<p>If your profile for NTP contains a valid NTP packet structure, the packet will look like NTP to network tooling (i.e., Wireshark). If it contains garbage, the packet will contain garbage, and likely won&#x27;t be recognized.</p>
 <blockquote>
 <p>The Profile Editor tool is meant to minimize mistakes and confusion, so be sure to use it.</p>
 </blockquote>
